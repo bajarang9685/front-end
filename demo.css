@@ -1,0 +1,36 @@
+#d1{
+    background-color: aqua;
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin: 40px;
+
+}
+#d2{
+    background-color: blue;
+    height: 200px;
+    width: 600px;
+    float: right;
+    margin: 40px;
+}
+#d3{
+    background-color: rgb(255, 0, 0);
+    height: 200px;
+    width: 300px;
+    margin: 30px;
+    float: left;
+}
+#d4{
+    background-color: blueviolet;
+    height: 200px;
+    width: 300px;
+    margin: 30px;
+    float: left;
+}
+#d5{
+    background-color: rgb(234, 255, 0);
+    height: 200px;
+    width: 300px;
+    margin: 30px;
+    float: right;
+}

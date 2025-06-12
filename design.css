@@ -1,0 +1,56 @@
+#a
+{
+    background-color: aqua;
+    height: 150px;
+    width: auto;
+}
+#b
+{
+    background-color: aquamarine;
+    height: 150px;
+    width: 375px;
+    float: left;
+}
+#c
+{
+    background-color: rgb(255, 145, 0);
+    height: 150px;
+    width: 380px;
+    float: left;
+    
+}
+#d
+{
+    background-color: rgb(111, 255, 0);
+    height: 150px;
+    width: 374px;
+    float: right;
+}
+#e
+{
+    background-color: brown;
+    height: 150px;
+    width: auto;
+
+}
+#f
+{
+    height: 150px;
+    width: auto;
+}
+#g
+{
+    background-color: rgb(224, 3, 206);
+    height: 150px;
+    width: auto;
+  
+}
+#h
+{
+    background-image: url(download.webp);
+    height: 140px;
+    width: 200px;
+    float: right;
+    margin: 5px;
+
+}

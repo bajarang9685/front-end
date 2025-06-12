@@ -1,0 +1,13 @@
+#p1{
+    background-color: aqua;
+    height: 400px;
+    width: auto;
+}
+
+.p2{
+    background-image: url(download.webp);
+    height: 100px;
+    width: 500px;
+    float: right;
+    background-repeat: no-repeat;
+}
